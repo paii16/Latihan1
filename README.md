@@ -9,7 +9,6 @@
 <body>
 <style>
 body {
-    background-image: 
 </style>
     <h1>Kebun Binatang Suka Ria</h1>
     <h2>Semua Makhluk Harus Disayang</h2>
