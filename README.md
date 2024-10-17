@@ -7,9 +7,6 @@
     <title>Tugas 1 HTML Dasar</title>
 </head>
 <body>
-<style>
-body {
-</style>
     <h1>Kebun Binatang Suka Ria</h1>
     <h2>Semua Makhluk Harus Disayang</h2>
     <h3>Berbagai Macam Hewan di Kebun Binatang Suka Ria</h3>
